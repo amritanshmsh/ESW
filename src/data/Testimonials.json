@@ -1,0 +1,27 @@
+[
+    {
+      "name": "John Doe",
+      "feedback": "Engineer Solar Wala has provided exceptional service and great savings. Highly recommend their solar solutions!",
+      "title": "CEO, Green Energy Inc."
+    },
+    {
+      "name": "Jane Smith",
+      "feedback": "Switching to solar was the best decision I made. Engineer Solar Wala made the process smooth and hassle-free.",
+      "title": "Founder, EcoLiving"
+    },
+    {
+      "name": "Michael Lee",
+      "feedback": "The team at Engineer Solar Wala is extremely knowledgeable and professional. I've already seen massive savings!",
+      "title": "Director, SolarTech"
+    },
+    {
+      "name": "Emma Johnson",
+      "feedback": "Fantastic experience with Engineer Solar Wala. Their customer service and installation process are top-notch.",
+      "title": "Homeowner"
+    },
+    {
+      "name": "David Brown",
+      "feedback": "I highly recommend Engineer Solar Wala for anyone looking to go solar. Their service is unmatched.",
+      "title": "Architect"
+    }
+  ]

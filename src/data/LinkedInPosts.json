@@ -1,0 +1,23 @@
+[
+    {
+      "username": "John Doe",
+      "title": "Excited to share our latest solar installation project!",
+      "content": "Check out the new solar panel installation we completed last week. Another step towards greener energy!",
+      "image": "/assets/linkedin/post1.jpg",
+      "time": "2 days ago"
+    },
+    {
+      "username": "Jane Smith",
+      "title": "Engineer Solar Wala hits 500+ successful projects!",
+      "content": "We’ve completed over 500 projects! Thanks to our amazing team and clients for making this possible.",
+      "image": "/assets/linkedin/post2.jpg",
+      "time": "1 week ago"
+    },
+    {
+      "username": "Michael Lee",
+      "title": "Tips for maintaining solar panels",
+      "content": "Regular maintenance of solar panels is key to efficient energy generation. Here are some tips from our experts.",
+      "image": "/assets/linkedin/post3.jpg",
+      "time": "3 days ago"
+    }
+  ]

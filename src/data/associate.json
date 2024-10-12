@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Solar Experts Pvt Ltd",
+      "address": "123 Green Avenue, Sector 21, New Delhi",
+      "tradeName": "Solar Expert",
+      "image": "/images/associate1.jpg",
+      "pinCode": "110001",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "certificateLink": "https://example.com/certificate1.pdf",
+      "locationLink": "https://maps.example.com/location1"
+    },
+    {
+      "name": "Solar Pro Services",
+      "address": "45 Solar Street, Whitefield, Bengaluru",
+      "tradeName": "Solar Pro",
+      "image": "/images/associate2.jpg",
+      "pinCode": "560066",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "certificateLink": "https://example.com/certificate2.pdf",
+      "locationLink": "https://maps.example.com/location2"
+    }
+   
+  ]

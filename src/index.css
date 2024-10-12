@@ -1,0 +1,21 @@
+/* Import Tailwind base, components, and utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure the root html and body elements cover full height */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Optional: Ensure the body uses full width and default background if needed */
+body {
+  min-height: 100%;
+  width: 100%;
+  background-color: #f3f4f6; /* Light background fallback */
+  font-family: 'Inter', sans-serif;
+}
